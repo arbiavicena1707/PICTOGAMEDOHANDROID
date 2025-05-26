@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1747814785,
+	"version": 1748260419,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -74,6 +74,10 @@
 		"images/kiri-sheet0.png",
 		"images/zbutton-sheet0.png",
 		"images/sprite22-sheet0.png",
+		"images/kiriandro-sheet0.png",
+		"images/zandro-sheet0.png",
+		"images/atasandro-sheet0.png",
+		"images/kananandro-sheet0.png",
 		"images/tilemap.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
@@ -123,6 +127,8 @@
 		"images/sprite41-sheet0.png",
 		"images/sprite42-sheet0.png",
 		"images/sprite43-sheet0.png",
+		"images/sprite44-sheet0.png",
+		"images/sprite45-sheet0.png",
 		"media/buku open.m4a",
 		"media/buku open.ogg",
 		"media/click.m4a",
