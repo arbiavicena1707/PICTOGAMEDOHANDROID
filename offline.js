@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748260710,
+	"version": 1748350543,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,7 +42,7 @@
 		"images/tp-sheet0.png",
 		"images/tp2-sheet0.png",
 		"images/camera-sheet0.png",
-		"images/fadein-sheet0.png",
+		"images/fadeout-sheet0.png",
 		"images/salahjalan-sheet0.png",
 		"images/backgroundtext-sheet0.png",
 		"images/reikovn-sheet0.png",
