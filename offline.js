@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748411003,
+	"version": 1748418164,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,8 @@
 		"images/salahjalan-sheet0.png",
 		"images/backgroundtext-sheet0.png",
 		"images/reikovn-sheet0.png",
+		"images/reikovn-sheet1.png",
+		"images/reikovn-sheet2.png",
 		"images/latarresto-sheet0.png",
 		"images/visualnoveltriger-sheet0.png",
 		"images/portal-sheet0.png",
