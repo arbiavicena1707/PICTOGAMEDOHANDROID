@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748908273,
+	"version": 1749480747,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,7 @@
 		"images/camera-sheet0.png",
 		"images/fadeout-sheet0.png",
 		"images/salahjalan-sheet0.png",
+		"images/fadein-sheet0.png",
 		"images/backgroundtext-sheet0.png",
 		"images/reikovn-sheet0.png",
 		"images/reikovn-sheet1.png",
@@ -59,6 +60,7 @@
 		"images/buttonandroid-sheet1.png",
 		"images/textandroid.png",
 		"images/sprite48-sheet0.png",
+		"images/textnama.png",
 		"images/spritefont.png",
 		"images/pause-sheet0.png",
 		"images/pausebackground-sheet0.png",
