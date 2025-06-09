@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749480747,
+	"version": 1749484474,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -61,6 +61,7 @@
 		"images/textandroid.png",
 		"images/sprite48-sheet0.png",
 		"images/textnama.png",
+		"images/bossvn-sheet0.png",
 		"images/spritefont.png",
 		"images/pause-sheet0.png",
 		"images/pausebackground-sheet0.png",
@@ -138,6 +139,7 @@
 		"images/sprite44-sheet0.png",
 		"images/sprite45-sheet0.png",
 		"images/sprite49-sheet0.png",
+		"images/monitorvn-sheet0.png",
 		"media/buku open.m4a",
 		"media/buku open.ogg",
 		"media/click.m4a",
