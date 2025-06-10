@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749527994,
+	"version": 1749560251,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -152,6 +152,9 @@
 		"images/chatgptimagejun10202508_30_24am-sheet0.png",
 		"images/chatgptimagejun10202508_30_24am2-sheet0.png",
 		"images/pplgrpl-sheet0.png",
+		"images/download-sheet0.png",
+		"images/cookinggame-sheet0.png",
+		"images/download2-sheet0.png",
 		"media/buku open.m4a",
 		"media/buku open.ogg",
 		"media/click.m4a",
